@@ -1,0 +1,9 @@
+{
+  "appId": "com.vetref.app",
+  "appName": "VetRef",
+  "webDir": "www",
+  "android": { "allowMixedContent": false },
+  "plugins": {
+    "StatusBar": { "style": "DARK", "backgroundColor": "#0f172a" }
+  }
+}
